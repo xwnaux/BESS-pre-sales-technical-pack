@@ -1,4 +1,3 @@
-
 ### 01_DITA_Map_and_Technical_Pack
 - DITA map for executive + technical layers
 - Concept topics (solution overview, lifecycle)
