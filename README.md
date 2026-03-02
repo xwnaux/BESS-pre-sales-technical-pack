@@ -12,7 +12,7 @@ The objective is to demonstrate:
 - Compliance-oriented content modeling
 - Site acceptance and operational readiness documentation
 
-This project is a professional simulation based on public industry signals and typical BESS project documentation structures.
+This project is a professional tech documentation based on public industry signals and typical BESS project documentation structures.
 
 ---
 
